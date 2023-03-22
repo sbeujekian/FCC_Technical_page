@@ -5,3 +5,12 @@ body {
 header {
     font-size: 1.8em;
 }
+
+code {
+    display: block;
+    padding: 15px;
+    background: linear-gradient(.25turn, #fee8e8 70%, transparent);
+    margin: 10px;
+    line-height: 2;
+    border-radius: 5px;
+}
